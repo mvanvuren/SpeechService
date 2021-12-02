@@ -1,6 +1,6 @@
 # SpeechService
 
-A little PoC to unlock the system speech synthesis via an API.
+A little PoC to unlock the system speech synthesis via a Web API.
 
 ## Command-Line Reference
 
